@@ -1,0 +1,23 @@
+{
+  "name": "super-ryan-andrew",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AWP302/super-ryan-andrew.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AWP302/super-ryan-andrew/issues"
+  },
+  "homepage": "https://github.com/AWP302/super-ryan-andrew#readme",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
